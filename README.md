@@ -1,3 +1,10 @@
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/Single%20Cell.png">
+    <img alt="nf-core/myfirstpipeline" src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/Single%20Cell.png">
+  </picture>
+</h1>
+
 # Scripts for "Current best-practices in single-cell RNA-seq: a tutorial"
 
 > **Note**
